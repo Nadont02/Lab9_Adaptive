@@ -57,3 +57,11 @@ padding-left: calc((100% - 1200px) / 2);
 padding-right: calc((100% - 1200px) / 2);
 }
 }
+
+.logotipe {
+    width: 77px;
+    height: 77px;
+    border-radius: 50%;
+    display: block;
+    transform: translateX(-325px)
+}
